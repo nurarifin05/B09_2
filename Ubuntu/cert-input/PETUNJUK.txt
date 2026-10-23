@@ -1,0 +1,1 @@
+Masukkan fullchain.pem dan sibertaruna.my.id.key di direktori ini sebelum setup. Jangan distribusikan key ke Kali atau LMS.
